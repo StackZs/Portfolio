@@ -502,7 +502,7 @@ p {
 }
 
 .card__toggle span {
-  background: url("./img/eclipse-arrow.svg") no-repeat;
+  background: url("../img/eclipse-arrow.svg") no-repeat;
   width: 16px;
   height: 6px;
   display: inline-block;
@@ -585,6 +585,6 @@ p {
 
 @supports (-webkit-appearance:none) {
   .card__toggle span {
-    background: url("./img/eclipse-arrow.svg") no-repeat;
+    background: url("../img/eclipse-arrow.svg") no-repeat;
   }
 }
